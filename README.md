@@ -1,4 +1,4 @@
-# 240032-ExParcial-Q1-2021-22
+# 240032-ex-parcial-q1-2021-22
 
 Codis Matlab per als problemes de l'examen parcial de Mètodes Numèrics
 (240032) de dijous 04/11/2021.
